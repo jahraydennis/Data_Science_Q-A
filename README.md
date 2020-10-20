@@ -1,7 +1,4 @@
-# Data_Science_Q-A
-Data Science Q &amp; A
-
-# Data Science Question Answer
+# Data Science Questions With Answers
 
 The purpose of this repo is two fold:
 
